@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\AuthStyles\\Login.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyles\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\AuthStyles\\styleMeuPerfil.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyles\\styleMeuPerfil.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\AuthStyles\\styleRecuperarSenha.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyles\\styleRecuperarSenha.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\ChatVoxStyles\\voice-modalstyle.css",
+      "PackagePath": "staticwebassets\\css\\ChatVoxStyles\\voice-modalstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\DashboardAdminStyles\\styleSidebarDashboard.css",
+      "PackagePath": "staticwebassets\\css\\DashboardAdminStyles\\styleSidebarDashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\DocumentosStyles\\EtapasDoc.css",
+      "PackagePath": "staticwebassets\\css\\DocumentosStyles\\EtapasDoc.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\DocumentosStyles\\OfflineDoc.css",
+      "PackagePath": "staticwebassets\\css\\DocumentosStyles\\OfflineDoc.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\OculteCssNativoWeb.css",
+      "PackagePath": "staticwebassets\\css\\OculteCssNativoWeb.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\PagamentosStyles\\Pagamentos.css",
+      "PackagePath": "staticwebassets\\css\\PagamentosStyles\\Pagamentos.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\UploadStyles\\UploadPageStyle.css",
+      "PackagePath": "staticwebassets\\css\\UploadStyles\\UploadPageStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\css\\styleIndex.css",
+      "PackagePath": "staticwebassets\\css\\styleIndex.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\img\\VoxDox sem fundo.png",
+      "PackagePath": "staticwebassets\\img\\VoxDox sem fundo.png"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\js\\DashboardScripts\\scriptSideBar.js",
+      "PackagePath": "staticwebassets\\js\\DashboardScripts\\scriptSideBar.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\js\\DocumentosScripts\\service-worker.js",
+      "PackagePath": "staticwebassets\\js\\DocumentosScripts\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\js\\PagamentoScript\\PagamentoScript.js",
+      "PackagePath": "staticwebassets\\js\\PagamentoScript\\PagamentoScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\js\\VoxDocsScripts\\voice-modalScript.js",
+      "PackagePath": "staticwebassets\\js\\VoxDocsScripts\\voice-modalScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felip\\OneDrive\\Área de Trabalho\\VoxDocs\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.VoxDocs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.VoxDocs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.VoxDocs.props",
+      "PackagePath": "build\\VoxDocs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.VoxDocs.props",
+      "PackagePath": "buildMultiTargeting\\VoxDocs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.VoxDocs.props",
+      "PackagePath": "buildTransitive\\VoxDocs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
